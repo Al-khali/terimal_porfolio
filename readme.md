@@ -53,4 +53,4 @@ Les suggestions et contributions sont les bienvenues. N'hésitez pas à ouvrir u
 
 Khalid Aourik - aourik.khalid@hotmail.com
 
-Lien du projet : [https://github.com/votre-username/portfolio-terminal](https://github.com/votre-username/portfolio-terminal)
+Lien du projet : [https://github.com/al-khali/terimal_porfolio](https://github.com/al-khali/terimal_porfolio)
